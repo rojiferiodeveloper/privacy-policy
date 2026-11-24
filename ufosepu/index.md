@@ -44,7 +44,7 @@ La app **no pide** permisos de cámara, micrófono, ubicación, contactos, fotos
 
 ## 4. Servicios de terceros
 
-**Ninguno.** La app está hecha con el motor Unity, pero **no integra** ningún servicio de análisis (Unity Analytics, Firebase, etc.), de informes de errores ni de publicidad (AdMob, Unity Ads, etc.). No hay cookies. No hay tracking de comportamiento. No hay compras integradas.
+**Ninguno.** La app **no integra** ningún SDK de análisis (Firebase, Mixpanel, etc.), de informes de errores ni de publicidad (AdMob, etc.). No hay cookies. No hay tracking de comportamiento. No hay compras integradas.
 
 ---
 
